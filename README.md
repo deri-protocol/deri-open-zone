@@ -1,2 +1,5 @@
-# deri-open-zone
-materials for the Open Zone of Deri Protocol
+Please upload the token icon to deri-finance/deri-open-zone/img
+explain:
+Picture format: png
+Picture size: 54 * 54 px
+Picture naming: please keep consistent with base token name
