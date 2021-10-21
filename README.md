@@ -1,5 +1,5 @@
-Please upload the token icon to deri-finance/deri-open-zone/img
-explain:
-Picture format: png
-Picture size: 54 * 54 px
-Picture naming: please keep consistent with base token name
+## Add Your Token Icon
+1. Fork this repo and add icon image to ./img.  
+format: png,  size: 54*54px, please keep file name consistent with base token name
+2. Send pull request and ask the admin to merge your repo.
+3. Done!
